@@ -110,8 +110,9 @@ Se o comando retornar a versão do VS Code, a instalação foi bem-sucedida!
      ```sh
      venv\Scripts\activate.bat
      ```
-
-4. Agora, para instalar as bibliotecas necessárias para rodar o extrator, execute:
+    ![alt text](image.png)
+   
+5. Agora, para instalar as bibliotecas necessárias para rodar o extrator, execute:
     ```sh
     python -m pip install -r requirements.txt
     ```
@@ -119,10 +120,11 @@ Se o comando retornar a versão do VS Code, a instalação foi bem-sucedida!
    ```sh
    venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
-
 ---
 
-# 4. Rodando o projeto
+# 5. Rodando o projeto
 
 Uma vez instaladas todas as dependências, para executar o projeto, abra o arquivo `extracaoPerfilComposto.py` no VS Code e clique no botão de execução.
+
+![alt text](image-1.png)
 
